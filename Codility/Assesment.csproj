@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Graph\Graph.cs" />
     <Compile Include="Movie.cs" />
     <Compile Include="MovieRecommendations.cs" />
     <Compile Include="Program.cs" />
