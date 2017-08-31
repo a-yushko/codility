@@ -44,6 +44,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Graph\Graph.cs" />
+    <Compile Include="LinkedList\LinkedList.cs" />
+    <Compile Include="LinkedList\Node.cs" />
     <Compile Include="Movie.cs" />
     <Compile Include="MovieRecommendations.cs" />
     <Compile Include="Program.cs" />
