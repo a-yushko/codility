@@ -55,6 +55,7 @@
     <Compile Include="MovieRecommendationsTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="HasRouteTest.cs" />
+    <Compile Include="StringTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Codility\Assesment.csproj">
