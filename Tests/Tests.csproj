@@ -57,6 +57,7 @@
     <Compile Include="HasRouteTest.cs" />
     <Compile Include="StringTest.cs" />
     <Compile Include="LinkedListRemoveDuplicatesTest.cs" />
+    <Compile Include="AnimalShelterTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Codility\Assesment.csproj">
