@@ -60,6 +60,7 @@
     <Compile Include="LinkedListRemoveDuplicatesTest.cs" />
     <Compile Include="AnimalShelterTest.cs" />
     <Compile Include="MergeSortTest.cs" />
+    <Compile Include="SequenceOfOnesTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Codility\Assesment.csproj">
