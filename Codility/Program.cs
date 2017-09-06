@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Assesment.Warmup;
 
 namespace Assesment
 {
@@ -10,6 +7,13 @@ namespace Assesment
     {
         static void Main(string[] args)
         {
+            int length = 10000;
+            var array = new int[length];
+            var random = new Random();
+            for (int i = 0; i < length; i++)
+                array[i] = random.Next(1024);
+            Sequence.PrintSorted(array);
+            Console.ReadKey();
         }
     }
 }

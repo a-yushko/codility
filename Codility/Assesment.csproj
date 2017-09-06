@@ -55,6 +55,7 @@
     <Compile Include="Sort\MergeSort.cs" />
     <Compile Include="Sort\QuickSort.cs" />
     <Compile Include="Strings\StringTask.cs" />
+    <Compile Include="Warmup\Sequence.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
